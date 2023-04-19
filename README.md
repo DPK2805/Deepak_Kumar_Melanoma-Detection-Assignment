@@ -34,6 +34,3 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 - Google Colab
 - tensorFlow v2.11.0
-
-## Contact
-Created by [puspanjalis](https://github.com/puspanjalis) - feel free to contact me!
